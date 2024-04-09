@@ -1,5 +1,7 @@
 # E-B Decomposition Using Residual U-nets
 
+![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-ND-4.0&color=green)
+
 You can find my thesis containing complete details of the background theory, as well as the rationale, methodology, and results below: \
 DOI: https://dx.doi.org/10.14288/1.0416316
 
